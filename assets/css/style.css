@@ -1315,7 +1315,7 @@ background-attachment: fixed;}
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.SVG") no-repeat;
+  background: url("https://raw.githubusercontent.com/AdarshMore/TheGreat/215a31ad1dff479c0b2c2aaf9a95928ff178d720/assets/img/testimonials-bg.svg") no-repeat;
   background-position: center center;
   background-color: #35322d;
   background-size: cover;
